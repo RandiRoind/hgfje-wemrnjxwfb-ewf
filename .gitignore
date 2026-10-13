@@ -1,0 +1,9 @@
+# Бинарники и архивы — по необходимости; крупные файлы лучше в Releases
+*.exe
+*.zip
+*.7z
+*.tar.gz
+*.db
+*.db-wal
+*.db-shm
+Thumbs.db
